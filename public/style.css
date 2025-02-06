@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 10px;
+  }
+  
+  .image {
+    width: 350px;
+    cursor: pointer
+  }
+  
+  .button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 26px;
+    border-radius: 15px;
+  }
+  
+  .button:hover {
+    background-color: gray;
+  }
+  
+  .skillls {
+    max-width: 500px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    
+    text-align: left;
+  }
+  
+  
+  
+  .bar {
+    background-color: gray;
+    border-radius: 5px;
+    height: 10px;
+    margin: 10px 0;
+  }
+  
+  .bar div {
+    height: 10px;
+    background-color: black;
+  }
+  
+  ul {
+    
+    padding-left: 20px;
+  }
+  
