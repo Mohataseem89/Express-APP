@@ -18,7 +18,8 @@ app.get("/", (req, res) => {
       </head>
       <body>
 
-      <h1>EC2</h1>
+      
+      <h1>Elastic Beaanstalk</h1>
         <div class="container">
         
           <img src="/image.png" alt="Sample Image" class="image">
