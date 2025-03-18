@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
       <body>
 
       
-      <h1>Elastic Beanstalk</h1>
+      <h1>EC2</h1>
         <div class="container">
         
           <img src="/image.png" alt="Sample Image" class="image">
